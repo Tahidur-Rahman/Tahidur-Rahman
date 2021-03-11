@@ -32,6 +32,15 @@
 <br />
 <br />
 
+[![Tahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahidur-Rahman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahidur-Rahman)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 [website]: https://dev-tahid.web.app
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
