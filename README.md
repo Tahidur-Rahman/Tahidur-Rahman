@@ -1,10 +1,10 @@
 ### Hi there, I'm Tahid - aka [website] 👋
 
 
-## I'm a Front End Web Developer !!
+## I'm a Front React Native Developer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to build myself as react native developer
+- 🌱 I’m currently working at PrimexSystems and learning a lot with the team. �
+- 👯 I’m looking to build myself as a Fullstack JavaScript developer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
