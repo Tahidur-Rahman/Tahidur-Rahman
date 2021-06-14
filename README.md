@@ -1,7 +1,7 @@
 ### Hi there, I'm Tahid - aka [website] 👋
 
 
-## I'm a Front React Native Developer !!
+## I'm a React Native Developer !!
 
 - 🌱 I’m currently working at PrimexSystems and learning a lot with the team. �
 - 👯 I’m looking to build myself as a Fullstack JavaScript developer
