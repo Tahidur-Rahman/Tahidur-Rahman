@@ -1,5 +1,5 @@
 
-### Hi there, [![fsdfsdfg](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com) - aka [website] 👋
+### Hi there,  - aka [website] 👋
 
 
 ## I'm a React Native Developer !!
