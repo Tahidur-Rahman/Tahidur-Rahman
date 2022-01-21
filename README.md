@@ -1,5 +1,5 @@
 
-### Hi there,  - aka [website] 👋
+### Hi there,  [![I'm - Tahid](https://img.shields.io/static/v1?label=I'm&message=Tahid&color=2ea44f)](https://) 👋
 
 
 ## I'm a React Native Developer !!
