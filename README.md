@@ -1,34 +1,37 @@
 
-### Hi there,  [![I'm - Tahid](https://img.shields.io/static/v1?label=I'm&message=Tahid&color=2ea44f)](https://) 👋
+### Hi there,  I'm [![ Tahid](https://img.shields.io/static/v1?label=&message=Tahid&color=2ea44f)][linkedin] 👋
+<br>
 
+## I'm a <img alt="react-native"  width="120px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer !!
+<br>
 
-## I'm a React Native Developer !!
-
-- 🌱 I’m currently working at PrimexSystems and learning a lot with the team. �
+- 🌱 I’m currently working at
+[<img alt="LinkedIn"  width="80px"  src="https://powah.com/sites/default/files/powah_1.png" />][powah]  Ltd as a <img alt="react-native"  width="80px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer and contributing in mobile app development.
 - 👯 I’m looking to build myself as a Fullstack JavaScript developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: To Be a pro in react native and contribute in open-source JS project.
+<br>
 
 
 ### Connect with me:
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn"  width="35px" style="margin:6px" src="https://cdn3.iconfinder.com/data/icons/social-44/63/Social_Icons-05-256.png" />][linkedin]
+[<img align="left" alt="Facebook" style="margin:6px" width="35px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
+[<img align="left" alt="G-mail" style="margin:6px" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" />][G-mail]
 
-<br />
+
+<br/>
+<br/>
 
 ### Languages and Tools:
+<img align="left" alt="G-mail" style="margin:2px" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="G-mail" style="margin:2px" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" />
+<img align="left" alt="G-mail" style="margin:5px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="G-mail" style="margin:8px" width="45px" src="https://miro.medium.com/max/910/1*Wjxx83j-qyiNvFBy1yOA1w.jpeg" />
+<img align="left" alt="G-mail" style="margin:8px" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxygaxvX7zhXqr2BLywZ1hXhvGFwVs1xFgRzrYPt9ZLYugVwFzw4FNF48XYavn3yxobOc&usqp=CAU" />
+<img align="left" alt="G-mail" style="margin:4px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" />
+<img align="left" alt="G-mail" style="margin:4px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE6Y_1FEVE-aiTACCRtOz_uN9DHvWSR8UUJGVoaESZBr13M_nnphuDb_VsNRBZZVpyhHk&usqp=CAU" />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
-<br />
+<br >
 <br />
 
 [![Tahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahidur-Rahman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,8 +43,9 @@
 
 
 
+[powah]: https://powah.com/
+[react-native]: https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png
 [website]: https://dev-tahid.web.app
-[twitter]: https://twitter.com/Tahidur__Rahman
 [facebook]: https://www.facebook.com/tahid.2/
-[instagram]: https://instagram.com  
 [linkedin]: https://linkedin.com/in/tahidur-rahman/
+[G-mail]: https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=DmwnWsdDxXwzjStDDFzhzQlbPPbWPgKHlLJxFVbxmsXVvtksJMjWRkbvhqrrLSHnFfGnPknRnlwg
