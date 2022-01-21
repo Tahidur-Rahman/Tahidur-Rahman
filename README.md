@@ -1,5 +1,5 @@
 
-## Hi there,  I'm [![ Tahid](https://img.shields.io/static/v1?label=&message=Tahidur&nbsp;Rahman&color=2ea44f)][linkedin] 👋
+## Hi there,  I'm [![ Tahid](https://img.shields.io/static/v1?label=&message=Tahidur&nbsp;Rahman&color=2ea44f)][linkedin]
 
 ## I'm a <img alt="react-native"  width="120px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer !!
 
