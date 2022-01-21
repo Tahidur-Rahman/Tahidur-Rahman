@@ -1,9 +1,7 @@
 
 ### Hi there,  I'm [![ Tahid](https://img.shields.io/static/v1?label=&message=Tahid&color=2ea44f)][linkedin] 👋
-<br>
 
 ## I'm a <img alt="react-native"  width="120px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer !!
-<br>
 
 - 🌱 I’m currently working at
 [<img alt="LinkedIn"  width="80px"  src="https://powah.com/sites/default/files/powah_1.png" />][powah]  Ltd as a <img alt="react-native"  width="80px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer and contributing in mobile app development.
