@@ -4,7 +4,7 @@
 ## I'm a <img alt="react-native"  width="120px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer !!
 
 - 🌱 I’m currently working at
-[<img alt="LinkedIn"  width="80px"  src="https://powah.com/sites/default/files/powah_1.png" />][powah]  Ltd as a <img alt="react-native"  width="80px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer and contributing in mobile app development.
+[<img alt="LinkedIn"  width="80px"  src="[https://powah.com/sites/default/files/powah_1.png](https://sg.fiverrcdn.com/press_release/1061/Press-Page%20-%201_press_image_1599654465.jpg)" />][fiverr]  Ltd as a <img alt="react-native"  width="80px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer and contributing in mobile app development.
 - 👯 I’m looking to build myself as a Fullstack JavaScript developer
 - 🥅 2022 Goals: To Be a pro in react native and contribute in open-source JS project.
 <br>
