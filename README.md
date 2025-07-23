@@ -3,13 +3,13 @@
 I'm a Full-stack capable Mobile App Developer with over 4 years of experience delivering high-quality, cross-platform applications. I specialize in **React Native** and **Flutter**, and I'm passionate about building intuitive, high-performance apps that solve real-world problems.
 
 <p align="left">
-  <a href="https://www.appskoniphor.com/" target="_blank">
+  <a href="https://www.appkarighor.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Portfolio&color=23555f&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/tahidur-rahman" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=0A66C2&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="mailto:md.tahidurrahman20@gmail.com">
+  <a href="mailto:mdtahidurrahman20@gmail.com">
     <img src="https://img.shields.io/static/v1?label=|&message=Email%20Me&color=c71610&style=plastic&logo=gmail&logo-color=white"/>
   </a>
 </p>
@@ -18,8 +18,8 @@ I'm a Full-stack capable Mobile App Developer with over 4 years of experience de
 
 - 🔭 I’m currently working as a Freelance Mobile Developer on **Upwork & Fiverr**, helping startups and businesses build their MVPs and scale their applications.
 - 🌱 I’m currently focused on advanced app architecture and exploring native module development for performance-critical tasks.
-- 💬 Ask me about **React Native, Flutter, Firebase, GraphQL, and cross-platform app deployment**.
-- 📫 How to reach me: **md.tahidurrahman20@gmail.com**
+- 💬 Ask me about **React Native, Flutter, Firebase, GraphQL, and cross-platform app development**.
+- 📫 How to reach me: **mdtahidurrahman20@gmail.com**
 - ⚡ Fun fact: ### 🛠️ Languages and Tools
 
 <p align="left">
