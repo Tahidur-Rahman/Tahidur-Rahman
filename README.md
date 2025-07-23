@@ -1,49 +1,62 @@
+### Hi there, I'm Tahidur Rahman 👋
 
-## Hi there,  I'm [![ Tahid](https://img.shields.io/static/v1?label=&message=Tahidur&nbsp;Rahman&color=2ea44f)][linkedin]
+I'm a Full-stack capable Mobile App Developer with over 4 years of experience delivering high-quality, cross-platform applications. I specialize in **React Native** and **Flutter**, and I'm passionate about building intuitive, high-performance apps that solve real-world problems.
 
-## I'm a <img alt="react-native"  width="120px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer !!
+<p align="left">
+  <a href="https://www.appskoniphor.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Portfolio&color=23555f&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tahidur-rahman" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=0A66C2&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="mailto:md.tahidurrahman20@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=|&message=Email%20Me&color=c71610&style=plastic&logo=gmail&logo-color=white"/>
+  </a>
+</p>
 
-- 🌱 I’m currently working at
-[<img alt="Fiverr"  width="80px"  src="[https://sg.fiverrcdn.com/press_release/1061/Press-Page%20-%201_press_image_1599654465.jpg]" />][fiverr] as a <img alt="react-native"  width="80px"  src="https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png"/> Developer and contributing in mobile app development.
-- 👯 I’m looking to build myself as a Fullstack JavaScript developer
-- 🥅 2022 Goals: To Be a pro in react native and contribute in open-source JS project.
-<br>
+---
 
+- 🔭 I’m currently working as a Freelance Mobile Developer on **Upwork & Fiverr**, helping startups and businesses build their MVPs and scale their applications.
+- 🌱 I’m currently focused on advanced app architecture and exploring native module development for performance-critical tasks.
+- 💬 Ask me about **React Native, Flutter, Firebase, GraphQL, and cross-platform app deployment**.
+- 📫 How to reach me: **md.tahidurrahman20@gmail.com**
+- ⚡ Fun fact: ### 🛠️ Languages and Tools
 
-### Connect with me:
-[<img align="left" alt="LinkedIn"  width="35px" style="margin:6px" src="https://cdn3.iconfinder.com/data/icons/social-44/63/Social_Icons-05-256.png" />][linkedin]
-[<img align="left" alt="Facebook" style="margin:6px" width="35px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" />][facebook]
-[<img align="left" alt="G-mail" style="margin:6px" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" />][G-mail]
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
+---
 
-<br/>
-<br/>
+### 📊 My GitHub Stats
 
-### Languages and Tools:
-<img align="left" alt="G-mail" style="margin:2px" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
-<img align="left" alt="G-mail" style="margin:2px" width="40px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" />
-<img align="left" alt="G-mail" style="margin:5px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="G-mail" style="margin:8px" width="45px" src="https://miro.medium.com/max/910/1*Wjxx83j-qyiNvFBy1yOA1w.jpeg" />
-<img align="left" alt="G-mail" style="margin:8px" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxygaxvX7zhXqr2BLywZ1hXhvGFwVs1xFgRzrYPt9ZLYugVwFzw4FNF48XYavn3yxobOc&usqp=CAU" />
-<img align="left" alt="G-mail" style="margin:4px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" />
-<img align="left" alt="G-mail" style="margin:4px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE6Y_1FEVE-aiTACCRtOz_uN9DHvWSR8UUJGVoaESZBr13M_nnphuDb_VsNRBZZVpyhHk&usqp=CAU" />
-
-
-<br >
-<br />
-
-[![Tahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahidur-Rahman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahidur-Rahman)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-[powah]: https://powah.com/
-[react-native]: https://miro.medium.com/max/580/1*4xfxyfJ336M3vvZQIY7Kaw.png
-[website]: https://dev-tahid.web.app
-[facebook]: https://www.facebook.com/tahid.2/
-[linkedin]: https://linkedin.com/in/tahidur-rahman/
-[G-mail]: https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=DmwnWsdDxXwzjStDDFzhzQlbPPbWPgKHlLJxFVbxmsXVvtksJMjWRkbvhqrrLSHnFfGnPknRnlwg
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahidur-Rahman&show_icons=true&theme=radical&rank_icon=github" alt="Tahid's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahidur-Rahman&layout=compact&theme=radical" alt="Top Langs" />
+</p>
